@@ -1,0 +1,13 @@
+{
+  "appName": "react-app",
+
+  "appSrv": {
+    "host": "localhost",
+    "port": 8080
+  },
+
+  "hotSrv": {
+    "host": "localhost",
+    "port": 3000
+  }
+}
